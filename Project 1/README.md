@@ -22,3 +22,5 @@ The target variable is the species of the iris flower:
 
 ## Installation
 Ensure you have Python installed, and then install the required libraries using pip:
+```bash
+pip install numpy pandas scikit-learn
